@@ -3,7 +3,7 @@ package data2;
 
 import data.*;
 
-public class Product2 {
+public class Product2 implements java.io.Serializable{
     public String id, name;
     public int price;
 
