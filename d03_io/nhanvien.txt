@@ -1,0 +1,6 @@
+E100, Phi Long, 300, IT
+E120, Do Phuc, 310, AD
+E200, Nguyen Truyen, 340, IT
+E201, Hoang Minh Tam, 400, IT
+E202, Vo Minh Thu, 50, GD
+E300, Tran Quoc Vuong, 400, ACC
